@@ -16,14 +16,14 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[{"id":0, "file":0, "city":"Luxembourg","country":"Luxembourg","image":"luxemburg","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":1, "city":"USA","country":"USA","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Canada","country":"Canada","image":"canada","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Australia","country":"Australia","image":"australia","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Switzerland","country":"Switzerland","image":"switzerland","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Netherlands","country":"Netherlands","image":"netherlands","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Germany","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Italy","country":"Italy","image":"italy","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"UK","country":"UK","image":"unitedkingdom","ip":"51.68.191.75","active":"true","signal":"a"},
-{"id":0, "file":0, "city":"Austria","country":"Austria","image":"austria","ip":"51.68.191.75","active":"true","signal":"a"}]
+    {"id":0, "file":1,"username":"vpn","password":"qazwsxedc", "city":"USA","country":"USA","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Canada","country":"Canada","image":"canada","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Australia","country":"Australia","image":"australia","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Switzerland","country":"Switzerland","image":"switzerland","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Netherlands","country":"Netherlands","image":"netherlands","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Germany","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Italy","country":"Italy","image":"italy","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"UK","country":"UK","image":"unitedkingdom","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Austria","country":"Austria","image":"austria","ip":"51.68.191.75","active":"true","signal":"a"}]
 }
