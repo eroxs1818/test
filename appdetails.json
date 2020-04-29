@@ -3,7 +3,9 @@
   "ad-on-start": "FULL",
   "ad-after-connection": "REWARD",
   "ad-before-disconnection": "FULL",
-  "ad-in-servers": "NONE",
+  "ad-on-start-id": "ca-app-pub-3940256099942544/1033173712",
+  "ad-after-connection-id": "ca-app-pub-3940256099942544/5224354917",
+  "ad-before-disconnection-id": "ca-app-pub-3940256099942544/5224354917",
   "update":[{
     "version":"1.1.1",
     "title":"A new version is available.",
