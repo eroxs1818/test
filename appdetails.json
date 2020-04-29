@@ -1,7 +1,7 @@
 {
   "ads":"true",
   "ad-on-start": "FULL",
-  "ad-after-connection": "FREWARD",
+  "ad-after-connection": "REWARD",
   "ad-before-disconnection": "FULL",
   "ad-in-servers": "NONE",
   "update":[{
