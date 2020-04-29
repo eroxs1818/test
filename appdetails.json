@@ -1,5 +1,9 @@
 {
   "ads":"true",
+  "ad-on-start": "FULL|REWARD|NONE",
+  "ad-after-connection": "FULL|REWARD|NONE",
+  "ad-before-disconnection": "FULL|REWARD|NONE",
+  "ad-in-servers": "FULL|REWARD|NONE",
   "update":[{
     "version":"1.1.1",
     "title":"A new version is available.",
