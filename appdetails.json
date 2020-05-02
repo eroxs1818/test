@@ -1,8 +1,8 @@
 {
   "ads":"true",
   "ad-on-start": "FULL",
-  "ad-after-connection": "REWARD",
-  "ad-before-disconnection": "REWARD",
+  "ad-after-connection": "FULL",
+  "ad-before-disconnection": "FULL",
   "ad-full-id": "ca-app-pub-3940256099942544/1033173712",
   "ad-reward-id": "ca-app-pub-3940256099942544/5224354917",
   "update":[{
