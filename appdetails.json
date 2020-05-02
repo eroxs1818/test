@@ -1,7 +1,7 @@
 {
   "ads":"true",
-  "ad_on_start": "FULL",
-  "ad_banner_main": "ENABLE",
+  "ad-on-start": "FULL",
+  "ad-banner-main": "ENABLE",
   "ad-after-connection": "FULL",
   "ad-before-disconnection": "FULL",
   "ad-full-id": "ca-app-pub-3940256099942544/1033173712",
