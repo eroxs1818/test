@@ -12,15 +12,7 @@
     "description":"A new version is available. A new version is available. A new version is available.",
     "size":"5.3 MB"
   }],
-  "blocked":[
-    {"id":0, "app":"com.android.game"},
-    {"id":1, "app":"com.utorrent.client"},
-    {"id":2, "app":"com.torrent.client"},
-    {"id":3, "app":"com.tor.client"},
-    {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
-  ],
+  "blocked":[],
   "free":[
     {"id":0, "file":0,"username":"vpn","password":"qazwsxedc", "city":"Luxembourg","country":"Luxembourg","image":"luxemburg","ip":"51.68.191.75","active":"true","signal":"a"},
     {"id":1, "file":0,"username":"vpn","password":"qazwsxedc", "city":"USA","country":"USA","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"a"},
