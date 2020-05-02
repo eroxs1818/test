@@ -1,6 +1,6 @@
 {
   "ads":"true",
-  "ad-on-start": "FULL",
+  "ad-on-start": "REWARD",
   "ad-after-connection": "REWARD",
   "ad-before-disconnection": "REWARD",
   "ad-full-id": "ca-app-pub-3940256099942544/1033173712",
