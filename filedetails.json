@@ -1,8 +1,8 @@
 {
   "ads": "true",
-  "ad_on_start": "REWAED",
+  "ad_on_start": "FULL",
   "ad_banner_main": "ENABLE",
-  "ad_after_connection": "FULL",
+  "ad_after_connection": "REWARD",
   "ad_before_disconnection": "FULL",
   "ad_full_id": "ca-app-pub-3940256099942544/8691691433",
   "ad_reward_id": "ca-app-pub-3940256099942544/5224354917",
