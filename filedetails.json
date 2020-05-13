@@ -8,14 +8,12 @@
     "ad-full-id": "ca-app-pub-3940256099942544/8691691433",
     "ad-reward-id": "ca-app-pub-3940256099942544/5224354917",
     "ad-banner-id": "ca-app-pub-3940256099942544/6300978111",
-    "update": [
-      {
+    "update":{
         "version": "1.1.1",
         "title": "A new version is available.",
         "description": "A new version is available. A new version is available. A new version is available.",
         "size": "5.3 MB"
-      }
-    ],
+      },
     "blocked": [],
     "free": [
       {
