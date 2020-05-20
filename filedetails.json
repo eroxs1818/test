@@ -1,6 +1,6 @@
 {
   "ads": "true",
-  "ad_on_start": "FULL",
+  "ad_on_start": "REWARD",
   "ad_banner_main": "ENABLE",
   "ad_after_connection": "REWARD",
   "ad_before_disconnection": "REWARD",
