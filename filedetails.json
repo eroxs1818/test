@@ -2,7 +2,7 @@
   "ads": "true",
   "ad_on_start": "NULL",
   "ad_banner_main": "ENABLE",
-  "ad_after_connection": "FULL",
+  "ad_after_connection": "REWARD",
   "ad_before_disconnection": "NULL",
   "ad_full_id": "ca-app-pub-3940256099942544/1033173712",
   "ad_reward_id": "ca-app-pub-3940256099942544/5224354917",
