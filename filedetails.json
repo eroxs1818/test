@@ -1,6 +1,6 @@
 {
   "ads": "true",
-  "ad_on_start": "NULL",
+  "ad_on_start": "FULL",
   "ad_banner_main": "ENABLE",
   "ad_after_connection": "FULL",
   "ad_before_disconnection": "NULL",
